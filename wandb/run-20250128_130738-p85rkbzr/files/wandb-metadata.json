@@ -1,0 +1,39 @@
+{
+  "os": "Linux-6.1.85+-x86_64-with-glibc2.35",
+  "python": "CPython 3.11.11",
+  "startedAt": "2025-01-28T13:07:39.167845Z",
+  "program": "hangman_api_user.ipynb",
+  "codePath": "hangman_api_user.ipynb",
+  "email": "darsezhang@gmail.com",
+  "root": "/content/drive/MyDrive/Colab Notebooks/Hangman",
+  "host": "3a73847b1f6a",
+  "executable": "/usr/bin/python3",
+  "codePathLocal": "hangman_api_user.ipynb",
+  "colab": "https://colab.research.google.com/notebook#fileId=1e_Y2Fzb1W1k2HMonvQO3vLUnaZ7pWjLW",
+  "cpu_count": 4,
+  "cpu_count_logical": 8,
+  "gpu": "Tesla T4",
+  "gpu_count": 1,
+  "disk": {
+    "/": {
+      "total": "253055008768",
+      "used": "35195830272"
+    }
+  },
+  "memory": {
+    "total": "54754004992"
+  },
+  "cpu": {
+    "count": 4,
+    "countLogical": 8
+  },
+  "gpu_nvidia": [
+    {
+      "name": "Tesla T4",
+      "memoryTotal": "16106127360",
+      "cudaCores": 2560,
+      "architecture": "Turing"
+    }
+  ],
+  "cudaVersion": "12.2"
+}

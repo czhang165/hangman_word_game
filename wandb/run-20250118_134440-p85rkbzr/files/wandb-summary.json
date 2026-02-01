@@ -1,0 +1,1 @@
+{"stopped_at_batch":1400,"letter_sample_rate":0.2961978928080623,"_runtime":47061.115580016,"_wandb":{"runtime":47987},"train_loss":0.2358267667889595,"global_batch_index":1400,"validation_loss":0.2160133824184321,"early_stopping":true,"eval_train_loss":0.2358267667889595,"_step":1779,"batch":1400,"_timestamp":1.7372549416624835e+09,"epoch":1}

@@ -1,0 +1,28 @@
+{
+  "os": "Linux-6.1.85+-x86_64-with-glibc2.35",
+  "python": "CPython 3.11.11",
+  "startedAt": "2025-01-30T12:44:32.728086Z",
+  "program": "hangman_api_user.ipynb",
+  "codePath": "hangman_api_user.ipynb",
+  "email": "darsezhang@gmail.com",
+  "root": "/content/drive/MyDrive/Colab Notebooks/Hangman",
+  "host": "7aa46d5d7478",
+  "executable": "/usr/bin/python3",
+  "codePathLocal": "hangman_api_user.ipynb",
+  "colab": "https://colab.research.google.com/notebook#fileId=1e_Y2Fzb1W1k2HMonvQO3vLUnaZ7pWjLW",
+  "cpu_count": 4,
+  "cpu_count_logical": 8,
+  "disk": {
+    "/": {
+      "total": "242486079488",
+      "used": "32724078592"
+    }
+  },
+  "memory": {
+    "total": "54754004992"
+  },
+  "cpu": {
+    "count": 4,
+    "countLogical": 8
+  }
+}
