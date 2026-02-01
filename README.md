@@ -404,15 +404,15 @@ If you use this project, please cite:
 ```bibtex
 @project{hangman_ml_2025,
   title={Hangman Game Solver: A Hybrid Heuristic and Deep Learning Approach},
-  author={[Your Name]},
+  author={[czhang165]},
   year={2025},
-  url={https://github.com/yourusername/Hangman}
+  url={https://github.com/czhang165/hangman_word_game}
 }
 ```
 
 ## License
 
-[Add your license here - MIT, Apache 2.0, etc.]
+[MIT]
 
 ## Contact
 
